@@ -20,4 +20,4 @@ Launch the 8-bit website and share it with friends, colleagues, or fellow enthus
 
 <img src="8bit_screenshot1.jpg">
 <img src="8bit-screenshot2.jpg">
-<img src="8bit_screenshot3.jpg">
+<img src="8bit-screenshot3.jpg">
