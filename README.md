@@ -19,5 +19,5 @@ Test the website thoroughly to ensure functionality, usability, and compatibilit
 Launch the 8-bit website and share it with friends, colleagues, or fellow enthusiasts to spread the nostalgia and appreciation for retro gaming and computing.
 
 <img src="8bit_screenshot1.jpg">
-<img src="8bit_screenshot2.jpg">
+<img src="8bit-screenshot2.jpg">
 <img src="8bit_screenshot3.jpg">
