@@ -17,3 +17,7 @@ Customize the page layout, styling, and content in the HTML and CSS files to mat
 Replace the placeholder images with your desired pixel art graphics, backgrounds, icons, and other visuals to personalize the 8-bit website.
 Test the website thoroughly to ensure functionality, usability, and compatibility across different browsers and devices.
 Launch the 8-bit website and share it with friends, colleagues, or fellow enthusiasts to spread the nostalgia and appreciation for retro gaming and computing.
+
+<img src="8bit_screenshot1.jpg">
+<img src="8bit_screenshot2.jpg">
+<img src="8bit_screenshot3.jpg">
